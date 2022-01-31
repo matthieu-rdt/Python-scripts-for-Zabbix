@@ -1,4 +1,4 @@
-zabbix-gnomes
+Python scripts for Zabbix
 =============
 
 A collection of various scripts to automate tasks with the Zabbix API. My main goal is to create a set of simple utilities that can be reused in shell scripts without using a lot of curl voodoo.
@@ -289,5 +289,3 @@ Please see the Zabbix manual for your version of Zabbix for the latest list of s
 |url_b 			|URL B.|
 |url_c 			|URL C.|
 |vendor 		|Vendor.|  
-
-
